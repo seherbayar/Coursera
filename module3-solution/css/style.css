@@ -1,0 +1,41 @@
+.navbar{
+  background-color: #9d97ad;
+  border: 2px solid black;
+}
+.navbar-brand {
+  padding: 20px 0px 20px 0px;
+}
+
+.navbar-brand h1 {
+  color: black;
+  font-size: 1.5em;
+  font-weight: bold;
+  text-shadow: 1px 1px 1px #222;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: .75;
+}
+.navbar-brand a{
+  text-decoration: none;
+}
+.navbar-brand a:hover {
+  text-decoration: none;
+}
+h2{
+  font-weight: bold;
+  color: black;
+  margin-top: 20px;
+}
+.main-text{
+  background-color: #b59dfc; 
+}
+.main-text p {
+  padding: 30px;
+}
+ button.navbar-toggle {
+ 
+}
+#collapsable-nav a {
+  color:black;
+  font-weight: bold;
+}
